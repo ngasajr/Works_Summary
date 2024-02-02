@@ -116,21 +116,21 @@ Dataset posted on 2023-09-13, authored by [AhmedElsafty](https://github.com/ssaf
 Sample Visualization:
 
 <p float="left">
-  <img src="https://github.com/ngasajr/Tutorial/blob/main/Works_Summary/Ahmed/rounded_rbc.png" width="200" />
-  <img src="https://github.com/ngasajr/Tutorial/blob/main/Works_Summary/Ahmed/Ovalocytes.png" width="200" /> 
-  <img src="https://github.com/ngasajr/Tutorial/blob/main/Works_Summary/Ahmed/Teardrops.png" width="200" />
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Ahmed/rounded_rbc.png" width="200" />
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Ahmed/Ovalocytes.png" width="200" /> 
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Ahmed/Teardrops.png" width="200" />
   
 </p>
 <p float="left">
-  <img src="https://github.com/ngasajr/Tutorial/blob/main/Works_Summary/Ahmed/Three_Overlapping_RBCs.png" width="200" />
-  <img src="https://github.com/ngasajr/Tutorial/blob/main/Works_Summary/Ahmed/Two_Overlapping_RBCs.png" width="200" />
-  <img src="https://github.com/ngasajr/Tutorial/blob/main/Works_Summary/Ahmed/Fragmented_RBCs.png" width="200" />
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Ahmed/Three_Overlapping_RBCs.png" width="200" />
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Ahmed/Two_Overlapping_RBCs.png" width="200" />
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Ahmed/Fragmented_RBCs.png" width="200" />
  
 </p>
 <p float="left">
-  <img src="https://github.com/ngasajr/Tutorial/blob/main/Works_Summary/Ahmed/Burr_Cells.png" width="200" />
-  <img src="https://github.com/ngasajr/Tutorial/blob/main/Works_Summary/Ahmed/Borderline_Ovalocytes.png" width="200" />
-  <img src="https://github.com/ngasajr/Tutorial/blob/main/Works_Summary/Ahmed/Angled_Cells.png" width="200" />
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Ahmed/Burr_Cells.png" width="200" />
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Ahmed/Borderline_Ovalocytes.png" width="200" />
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Ahmed/Angled_Cells.png" width="200" />
  
 </p>
 
