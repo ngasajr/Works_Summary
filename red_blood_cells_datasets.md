@@ -138,7 +138,7 @@ Sample Visualization:
 ## 📖 Project Goal
 
 The aim of creating these datasets was to facilitate the development of a generalizable automated system for RBCs classification utilizing the current DL technology or any other advanced technologies that may evolve in the coming decades.
-[source](https://github.com/ssafty)
+[source](https://figshare.com/articles/software/PathOlOgics_RBCs_Python_Scripts_zip/24130947)
 
 
 ## 📖 Overview of dataset
