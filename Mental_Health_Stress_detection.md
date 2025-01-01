@@ -4,7 +4,7 @@
 The multimodal stress detection pipeline. The general workflow is:
 
 <p align="center">
-  <img src="https://github.com/Shenggan/BCCD_Dataset/blob/master/example.jpg" width="400">
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Material/Arch_multimodal_stress_wesad.png" width="600" />
 </p>
 
 
