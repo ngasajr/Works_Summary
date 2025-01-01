@@ -32,16 +32,16 @@ Visualizing the confusion matrix to interpret model performance.
 
 ---
 
-### Muhtasari wa Desturi za Krismasi
+### TBD
 
-| Kipengele              | Asili ya Kipagani                          | Ubadilishaji wa Kikristo                  |
+| TBD              | TBD                         |TBD                 |
 |-----------------------|--------------------------------------------|------------------------------------------|
-| Tarehe (Des. 25)      | Kuzaliwa kwa Mithra, sherehe za Saturnalia  | Kuzaliwa kwa Kristo (bila ushahidi)       |
-| Mti wa Krismasi       | Ishara ya uzazi na maisha ya milele         | Mapambo ya Krismasi                      |
-| Kubadilishana Zawadi  | Mila ya Saturnalia                          | Mfano wa mamajusi (umetafsiriwa vibaya)  |
-| Santa Claus           | Mtakatifu Nicholas, hadithi za Nimrodi      | Shujaa wa sherehe za kisasa              |
-| Mlimbo na Mholi       | Ishara za uzazi wa kipagani                 | Mapambo ya sikukuu                       |
-| Kigogo cha Yuli       | Desturi za Kipagani za Wanutu              | Kituo cha sherehe za Krismasi            |
+| TBD     | TBD  | TBD     |
+| TBD      | TBD        | TBD                     |
+| TBD  | TBD                         | TBD  |
+| TBD           | TBD     | TBD             |
+| TBD       | TBD                 | TBD                       |
+| TBD       | TBD              | TBD            |
 
 ---
 
@@ -52,6 +52,6 @@ TBD
 ---
 
 **Refference:**
-- [WESAD Datasets](https://rcg.org/sw/vitabu/ttooc-sw.html)
+- [WESAD Datasets](https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection)
   
 ---
