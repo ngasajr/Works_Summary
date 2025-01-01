@@ -66,8 +66,8 @@ TBD
 Architectures Visualization:
 
 <p float="left">
-  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Material/Arch_multimodal_stress_wesad_.png" width="600" />
-  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Material/Arch_multimodal_stress_wesad_.png" width="600" />
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Material/Hierarchical_Puzzle_Learning_Machine.png" width="600" />
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Material/Shuffled_ECA_Net.png" width="600" />
   
 </p>
 
