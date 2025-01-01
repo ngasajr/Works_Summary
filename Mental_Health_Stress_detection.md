@@ -66,8 +66,8 @@ TBD
 Architectures Visualization:
 
 <p float="left">
-  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Material/Hierarchical_Puzzle_Learning_Machine.PNG" width="300" />
-  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Material/Shuffled_ECA_Net.PNG" width="300" />
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Material/Hierarchical_Puzzle_Learning_Machine.PNG" width="400" />
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Material/Shuffled_ECA_Net.PNG" width="400" />
   
 </p>
 
