@@ -61,7 +61,9 @@ TBD
 
 ---
 
-**Refference:**
+**Refferences:**
 - [WESAD Datasets](https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection)
+- [Hierachical Puzzle Learning Machine](https://www.sciencedirect.com/science/article/pii/S1746809423000575)
+- [Shuffled_ECA_Net](https://www.sciencedirect.com/science/article/pii/S0010482524013027)
   
 ---
