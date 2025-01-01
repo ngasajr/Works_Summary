@@ -61,6 +61,18 @@ TBD
 
 ---
 
+## Reviewed work's Workflows
+
+Architectures Visualization:
+
+<p float="left">
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Material/Arch_multimodal_stress_wesad_.png" width="600" />
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Material/Arch_multimodal_stress_wesad_.png" width="600" />
+  
+</p>
+
+---
+
 **Refferences:**
 - [WESAD Datasets](https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection)
 - [Hierachical Puzzle Learning Machine](https://www.sciencedirect.com/science/article/pii/S1746809423000575)
