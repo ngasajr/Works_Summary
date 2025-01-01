@@ -3,6 +3,11 @@
 
 The multimodal stress detection pipeline. The general workflow is:
 
+<p align="center">
+  <img src="https://github.com/Shenggan/BCCD_Dataset/blob/master/example.jpg" width="400">
+</p>
+
+
 ---
 
 ## Data Preparation :
