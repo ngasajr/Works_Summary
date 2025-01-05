@@ -37,7 +37,7 @@ merged_chest_fltr.pkl</br>
 
 ---
 
-## Data Preparation :
+## Another Proposed Approach :
 
 Extracting sensor data (e.g., ECG, EDA) from multiple subjects in the WESAD dataset.
 
