@@ -1,5 +1,5 @@
 
-# Big Picture Overview of my codes below
+# WorkFlow, Detailed Overview
 
 The multimodal stress detection pipeline. The general workflow is:
 
