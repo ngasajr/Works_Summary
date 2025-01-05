@@ -102,13 +102,13 @@ Architectures Visualization:
 
 1. **Hierarchical Extreme Puzzle Learning Machine (HEPLM):**
 </br>
-- Converts physiological signals into 2D images using hybrid wavelet scattering and synchro-squeezing wavelet transform. </br>
-- Uses ResNet152 and InceptionV3 for feature extraction with ensemble learning.</br></br>
+  - Converts physiological signals into 2D images using hybrid wavelet scattering and synchro-squeezing wavelet transform. </br>
+  - Uses ResNet152 and InceptionV3 for feature extraction with ensemble learning.</br></br>
 
 2. **Shuffled Efficient Channel Attention (ECA-Net):**
 </br>
-- Incorporates inter-modality attention, enabling advanced sensor fusion.</br>
-- Combines ECG, RESP, and EGG signals to achieve high accuracy (e.g., 0.916 F1-score)​</br></br>
+  - Incorporates inter-modality attention, enabling advanced sensor fusion.</br>
+  - Combines ECG, RESP, and EGG signals to achieve high accuracy (e.g., 0.916 F1-score)​</br></br>
 ---
 
 **Refferences:**
