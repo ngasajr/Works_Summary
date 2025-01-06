@@ -1,13 +1,6 @@
 
 # WorkFlow, Detailed Overview
 
-The multimodal stress detection pipeline. The general workflow is:
-
-<p align="center">
-  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Material/Arch_multimodal_stress_wesad_.png" width="800" />
-</p>
-
-
 ---
 
 The following order was used to prepare data and extract features from the latent layer of autoencoder model: </br>
@@ -83,6 +76,14 @@ The target is to classify data into three categories: Neutral, Stress, and Amuse
 Evaluating the model using accuracy, F1-score, and a confusion matrix.
 
 Visualizing the confusion matrix to interpret model performance.
+
+## Archtecture view:
+
+The multimodal stress detection pipeline. The general workflow is:
+
+<p align="center">
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Material/Arch_multimodal_stress_wesad_.png" width="800" />
+</p>
 
 ---
 
