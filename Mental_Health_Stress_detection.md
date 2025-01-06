@@ -37,7 +37,24 @@ merged_chest_fltr.pkl</br>
 
 ---
 
-## Another Proposed Approach :
+## Analysis of adopted Work with its Stenghth and Limitation
+
+1. **Strengths:** </br>
+  - **Comprehensive Multimodal Data:**  Work has approach of the use of chest and wrist sensor modalities with diverse signals (e.g., ECG, EDA, temperature, respiration) which ensures a rich dataset, critical for robust classification. </br>
+  - **Leave-One-Subject-Out (LOSO) Cross-Validation:** With this evaluation method the approach ensures the model's generalizability across different individuals.</br>
+  - **Autoencoder for Feature Extraction:** Using autoencoders for unsupervised feature extraction effectively reduces dimensionality and learns latent representations.</br>
+  - **Diverse Classifiers:** Employing SVM and MLP classifiers that allows to compare performance across different model architectures.</br>
+  - **Focus on Stress and Amusement Detection:** Including these psychological states addresses real-world mental health monitoring needs.</br></br>
+
+2. **Potential Limitations:** </br>
+  - **Limited Sensor Fusion Strategy:** The approach treats chest and wrist data separately, combining them only at the classifier stage. This might not fully exploit inter-modality relationships.</br>
+  - **No Attention Mechanism:** The absence of attention-based methods might hinder the ability to focus on the most relevant features, which is increasingly critical in multimodal learning.</br>
+  - **Manual Feature Selection for SVM:** While effective, manual feature engineering may be suboptimal compared to end-to-end learning.</br>
+  - **Fixed Sampling Windows:** Fixed window sizes for preprocessing might miss finer temporal dynamics or introduce redundancy.</br></br>
+
+---
+
+## Proposed Approach :
 
 Extracting sensor data (e.g., ECG, EDA) from multiple subjects in the WESAD dataset.
 
