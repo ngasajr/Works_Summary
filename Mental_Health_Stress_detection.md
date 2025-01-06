@@ -30,7 +30,7 @@ merged_chest_fltr.pkl</br>
 
 ---
 
-## Analysis of adopted Work with its Stenghth and Limitation
+## Analysis of adopted Work with its Strengths and Potential Limitations
 
 1. **Strengths:** </br>
   - **Comprehensive Multimodal Data:**  Work has approach of the use of chest and wrist sensor modalities with diverse signals (e.g., ECG, EDA, temperature, respiration) which ensures a rich dataset, critical for robust classification. </br>
