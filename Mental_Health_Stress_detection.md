@@ -54,7 +54,7 @@ merged_chest_fltr.pkl</br>
 
 ---
 
-## Proposed Approach :
+## Proposed Approach01 :
 
 Extracting sensor data (e.g., ECG, EDA) from multiple subjects in the WESAD dataset.
 
@@ -98,6 +98,18 @@ Visualizing the confusion matrix to interpret model performance.
 | TBD       | TBD              | TBD            |
 
 ---
+
+## Proposed Approach02 :
+
+1. **Incorporating Attention-Based Sensor Fusion:** </br>
+  - Integrate a **shuffled ECA module** into the adopted architecture for feature-level sensor fusion. This will allows the model to capture inter-modality relationships, enhancing performance.</br>
+  - Example: Use attention to weigh features from different modalities (chest vs wrist) based on their relevance to stress detection.</br></br>
+
+2. **Leverage Signal-to-Image Transformation:** </br>
+  - Convert 1D physiological signals into 2D images using **wavelet scattering transforms** for feature extraction via pre-trained CNNs (e.g., ResNet152, InceptionV3)​</br></br>
+
+---
+
 
 ### Overview, Progress, and Plan
 
