@@ -14,7 +14,7 @@ scalable similarity search using FAISS (Facebook AI Similarity Search).
 
 The project consists of three main modules:
 
-1. **Feature Extraction** (feature_extractor.py): </br>
+1. **Feature Extraction** (```feature_extractor.py```): </br>
   - Uses a **Vision Transformer (ViT)** model, specifically vit_base_patch16_224 from the timm 
   library, to extract high-dimensional feature embeddings from images. </br>
   - Each image is processed into a numerical vector (768-dimensional for ViT-B/16) 
@@ -23,13 +23,13 @@ The project consists of three main modules:
   into a tensor format compatible with the ViT model.</br></br>
 
 
-2. **Indexing and Metadata Storage** (retrieval_system.py): </br>
+2. **Indexing and Metadata Storage** (```retrieval_system.py```): </br>
    - Extracts features from all images in a directory.</br>
    - Stores these features in a FAISS index for efficient similarity search.</br>
    - Maintains a metadata file that maps indexed vectors to their respective image paths, 
    filenames, and indexing timestamps.</br></br>
 
-3. **Main Control and User Interface** (index_and_retrieve.py):</br>
+3. **Main Control and User Interface** (```index_and_retrieve.py```):</br>
    - Provides a user-friendly interface to:</br>
        - Index new images into the retrieval system.</br>
        - Search for images similar to a query image.</br></br>
@@ -132,7 +132,7 @@ The Image Retrieval System provides a powerful and flexible solution for managin
 1. **Feature Extraction** </br>
 The process begins by extracting deep features from images using a pre-trained Vision Transformer (ViT) model, implemented with the timm library. The features are 768-dimensional vectors representing the visual characteristics of each image.
    - **Command:** </br>
-   python feature_extractor.py
+   ```python feature_extractor.py```
 
 
 
