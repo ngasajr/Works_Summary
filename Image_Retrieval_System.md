@@ -139,8 +139,28 @@ The process begins by extracting deep features from images using a pre-trained V
      - Extract feature embeddings from the latent layers of the ViT model.</br>
      - Save the extracted features for indexing.</br>
 
+2. **Indexing Images** </br>
+Images from a specified directory are processed, their features are extracted, and these features are indexed using the **FAISS (Facebook AI Similarity Search)** library.
+   - **Command:** </br>
+   ```python index_and_retrieve.py --task index --image_dir all_images```
 
+   - **Workflow:** </br>
+     - Organize images into clusters using ```FAISS IndexIVFFlat```.</br>
+     - Train the index to optimize clustering based on extracted features.</br>
+     - Save the index and metadata for later retrieval.</br>
 
+3. **Searching for Similar Images** </br>
+Given a query image, the system searches for the most similar images in the indexed collection.
+   - **Command:** </br>
+   ```python index_and_retrieve.py --task search --query_image query_images/9410.bmp```
+
+   - **Workflow:** </br>
+     - Extract features from the query image.</br>
+     - Perform an approximate nearest neighbor (ANN) search in the FAISS index.</br>
+     - Retrieve metadata for the top matches and display results, including:
+          - File names. </br>
+          - Full paths. </br>
+          - Similarity scores. </br>
 
 **Refferences:**
 - [WESAD Datasets](https://archive.ics.uci.edu/dataset/465/wesad+wearable+stress+and+affect+detection)
