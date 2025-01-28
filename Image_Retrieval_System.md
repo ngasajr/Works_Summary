@@ -127,6 +127,14 @@ The Image Retrieval System is highly versatile and can be applied across various
 ## Conclusion </br>
 The Image Retrieval System provides a powerful and flexible solution for managing and querying large collections of images. By combining state-of-the-art deep learning models with scalable similarity search techniques, it has the potential to transform workflows in a wide range of industries, enhancing efficiency and decision-making. Future enhancements can expand its applicability and usability, making it a cornerstone tool for image-based information retrieval.
 
+## Workflow and Detailed Overview
+
+1. **Feature Extraction** </br>
+The process begins by extracting deep features from images using a pre-trained Vision Transformer (ViT) model, implemented with the timm library. The features are 768-dimensional vectors representing the visual characteristics of each image.
+   - **Command:** </br>
+   python feature_extractor.py
+
+
 
 
 **Refferences:**
