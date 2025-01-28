@@ -134,6 +134,11 @@ The process begins by extracting deep features from images using a pre-trained V
    - **Command:** </br>
    ```python feature_extractor.py```
 
+   - **Workflow:** </br>
+     - Preprocess images by resizing them to ```224x224``` and applying normalization.</br>
+     - Extract feature embeddings from the latent layers of the ViT model.</br>
+     - Save the extracted features for indexing.</br>
+
 
 
 
