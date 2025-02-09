@@ -12,7 +12,11 @@ Developing a comprehensive blood cell analysis platform that will be the system 
 Blood cells Automation System. The current general workflow is:
 
 <p align="center">
-  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Material/llm_blood_cell_automation.png" width="500" />
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Material/llm_blood_cell_automation.png" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Material/Arch_multimodal_stress_wesad_.png" width="800" />
 </p>
 
 ---
