@@ -7,6 +7,16 @@
 
 Developing a comprehensive blood cell analysis platform that will be the system beyond just WBC classification but to include RBC and platelet counts, all types of classifications, diagnosis, lab analysis, education, and accurate captions. 
 
+## Archtecture view:
+
+Blood cells Automation System. The current general workflow is:
+
+<p align="center">
+  <img src="https://github.com/ngasajr/Works_Summary/blob/main/Material/llm_blood_cell_automation.png" width="800" />
+</p>
+
+---
+
 ## Potential structured implementation plan :
 
 The project will go through the following implementations:
