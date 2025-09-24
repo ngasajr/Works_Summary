@@ -58,8 +58,8 @@ The project will go through the following implementations:
    - Visualizations like bar charts for cell counts, highlighted cells in images.</br></br>
 
 **Possible challenges:**
-  - Data availability: Annotated medical datasets for blood cells might be scarce. Look for public datasets like PBC (Peripheral Blood Cell) dataset, Raabin-WBC, etc.</br>
-  - Computational resources: Running multiple models could require significant GPU memory. Optimize models or use cloud services.</br>
+  - Data availability: Annotated medical datasets for blood cells might be scarce.</br>
+  - Computational resources: Running multiple models could require significant GPU memory.</br>
   - Clinical validation: Partnering with medical professionals to validate the system's accuracy and usefulness.</br></br>
     
 
