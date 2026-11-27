@@ -1,8 +1,7 @@
-# Professor-meeting tutorial: what the experiments establish about our WBC adaptation model
+# What the experiments establish about our WBC adaptation model
 
-**Meeting:** 27 November 2026, Korea time. **Prepared from:** the submitted main/supplementary PDFs and the completed 25–26 November experiment artifacts.
+**Edited:** 27 November 2026, Korea time. **Prepared from:** the submitted main/supplementary PDFs and the completed 25–26 November experiment artifacts.
 
-This is a teaching document, not a replacement manuscript. Read it in order once; then use the [presentation script](MEETING_SCRIPT.md) during the meeting. Original submitted documents, best-model code, checkpoints and experimental records have not been modified.
 
 ## Contents
 
@@ -15,7 +14,7 @@ This is a teaching document, not a replacement manuscript. Read it in order once
 7. [What morphology emphasis actually means in these experiments](#7-what-morphology-emphasis-actually-means-in-these-experiments)
 8. [Four exact weighting procedures, explained without labels alone](#8-four-exact-weighting-procedures-explained-without-labels-alone)
 9. [A worked real epoch: sampling, training, reward and policy update](#9-a-worked-real-epoch-sampling-training-reward-and-policy-update)
-10. [Direct answers to the professor's RL questions](#10-direct-answers-to-the-professors-rl-questions)
+10. [Direct answers about the RL questions](#10-direct-answers-to-the-professors-rl-questions)
 11. [Today's UDA comparison: exact protocol and results](#11-todays-uda-comparison-exact-protocol-and-results)
 12. [The original papers: purpose, implementation and WBC findings](#12-the-original-papers-purpose-implementation-and-wbc-findings)
 13. [Why the class-level results matter](#13-why-the-class-level-results-matter)
